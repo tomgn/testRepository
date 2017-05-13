@@ -65,6 +65,10 @@ FAQ|
 
 【待/答】Alpha mask貌似不起作用。	
 【问/答】HSB颜色模式的颜色值为何要用Hex或RGB来表示？它们是什么关系？
+【待】貌似也可以从网上下载颜色版文件(.sketchpalette)然后导入Sketch.
+    貌似要通过调色板插件(Sketch Palettes plugin)来弄。
+		一个调色板插件:https://github.com/andrewfiorillo/sketch-palettes
+
 【待/答】我的机子的Sketch(Insert->)Symbol的层级菜单底部并没有Organize Symbols...		
 
 【问】在Sketch43.2中，怎么ios ui template中的Shared Text Style不在Inspector的对应弹出菜单显示呢？自定义的Shared Text Style貌似一旦加"/"号，也不会在Inspector的对应弹出菜单中显示？
@@ -1023,7 +1027,9 @@ Sketch使用的HSB颜色模式，值可同时用Hex(比如#FF2D55)
        Linear Gradient/Radial Gradient/Angular Gradient中出现Global Gradient/Document Gradient 
        Pattern Fill中出现Global Pattern/Document Pattern 
 
-
+【待】貌似也可以从网上下载颜色版文件(.sketchpalette)然后导入Sketch.
+    貌似要通过调色板插件(Sketch Palettes plugin)来弄。
+		一个调色板插件:https://github.com/andrewfiorillo/sketch-palettes
 
 see "七.Styling-Layer Style - 1.3)渐变(Gradient) - d)eyedropper按钮(取色放大镜)"
 see "十五.Other(其它) - 5.Color Management"  <---色域/色彩空间
@@ -1412,7 +1418,7 @@ Prefix(前缀)/Suffix(后缀)://以下内容为表述方便均以.png为Format.
 
 						 好在，ios和安卓的规范中，对于导出图片的命名，有对应的要求。
 						 ios:几倍图，则按照:文件名+@几x后缀+.png  (1倍图不用加@1x后缀)
-						 	 eg.一个gt2对象，则输出gt.png,gt@2x.png,gt@3x.png 
+						 	 eg.一个名为gt2对象，则输出gt.png,gt@2x.png,gt@3x.png 
 						 Android:Sketch文档说安卓按照:前缀+文件名+.png来输出，其中1x对应mdpi/前缀，1.5x对应hdpi/前缀，2x对应xhdpi/前缀，3x对应xxhdpi/前缀，4x对应xxxhdpi/前缀。
 						 		 【待】但是在实际输出测试中，当我使用Export Presets之Android时，给我输出的却是:文件夹名称/文件名.png，并不是给文件名加前缀，而是把文件放在了前缀为名称的文件夹中了。
 						 
@@ -2034,7 +2040,6 @@ MengTo推荐打开，我觉得应该关闭。
 see "十三.Preferences"
 
 Pixel Fitting:
-十三.Preferences
 默认勾选，勾选时，会有两个子选项。	<---建议全勾选
 拖动Position(x,y)和resize之Size(Width,Height)时都是整数。
 see "十三.Preferences - 1.General标签项"
