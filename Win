@@ -58,7 +58,7 @@ https://designcode.io/sketch
 
 
 1.2)Color palettes
-在拾色器面板中有Global Colors(Global Gradients,Global Patterns)和Document Colors(Document Gradients,Document Patterns).
+在拾色器面板中有Global Colors和Document Colors.
 也可以从网上下载颜色版文件(.sketchpalette)然后导入Sketch.
 导入方法:貌似要通过调色板插件(Sketch Palettes plugin)来弄。
 		一个调色板插件:https://github.com/andrewfiorillo/sketch-palettes
@@ -76,12 +76,7 @@ https://designcode.io/sketch
 苹果:San Francisco
 	 苹方
 谷歌:貌似Roboto(2012年发布,安卓平台系统字体),Open Sans(2011年发布,汲取Droid Sans部分优势)
-     思源黑体(Source Han Sans)<---谷歌和Adobe共同推出
-     思源宋体(Source Han Serif)：是对应于思源黑体的宋体字体<---谷歌和Adobe于2017年4月3日发布https://source.typekit.com/source-han-serif/cn/
-              支持四种不同的东亚语言（简体中文、繁体中文、日语和朝鲜语）
-              7 种粗细类型中的每一种都有 65,535 个字形，可共同呈现一致的视觉美感。
-              该字体还包含多个西方字形，支持拉丁语、希腊语和西里尔文脚本，这些字形均来源于 Source Serif
-
+     思源黑体 <---谷歌和Adobe共同推出
 其它流行:Avenir
 
 ----------------------------
