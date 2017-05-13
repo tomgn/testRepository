@@ -1,0 +1,198 @@
+[置顶]
+https://designcode.io/sketch
+
+---------------------------
+Question|
+---------
+【待】MengTo说Sketch’s Color tool lets you store colors globally or for a specific document.
+    保存颜色可以全局，也可以给指定文件，这个怎么弄？
+    保存的是颜色版(color palette)吗？
+【问】如果不通过插件来管理调色版怎么弄？
+【问】调色板插件一般有什么作用，跟Sketch自带的拾色器(color picker)和eyedropper按钮(取色吸管[自译]相比有何优势？
+【问】现在有哪些热门的调色板插件？它们的机理和导入导出的文件格式都一样吗？
+【问】Sketch拾色器面板的Global Colors，有无对应的一个.sketchpalette文件？
+
+【待】将MengTo常用的和我在Sketch.txt中罗列的重要快捷操作进行合并总结。
+
+【待】待把玩Sketch Constraints类目的插件
+【待】Sketch-Constraints.sketch  <---看看这是啥文件
+
+【待】Magic Mirror官方放的.Sketch类型的template，是否需要配合其Magic Mirror插件一起使用？还是说光凭Sketch就能用了？
+
+【问】MengTo例子中，添加锚点工具为何能利用别的图层作为辅助线(打在两个图层相交位置)进行定位？
+【待】我觉得解决"如何制作4边不同颜色的空心十字" 的方法中，也能借助Scissor工具来完成。
+    因为我觉得，凡是涉及到删除锚点，都可以想一想能否通过Scissors工具来完成。
+
+---------------------------
+Index|
+------
+一.Learn Sketch 3
+1.Colors
+2.Text
+3.Photoshop形状图层导入Sketch
+4.(MengTo常用)Keyboard Shortcuts
+5.Essential Plugins
+
+二.Mastering Sketch 3
+1.Scissors工具
+2.Broder Options
+3.Background Blur
+---------------------------
+Content|
+--------
+一.Learn Sketch 3
+1.Colors
+https://designcode.io/sketch
+
+1.1)取色放大镜
+用途:可以抓取Sketch程序内部和外部(比如浏览器某调色网站等)的颜色，
+【待】MengTo说Sketch’s Color tool lets you store colors globally or for a specific document.
+    保存颜色可以全局，也可以给指定文件，这个怎么弄？
+    保存的是颜色版(color palette)吗？
+
+可能对应Sketch文档的:1.2)拾色器(color picker)
+
+取色放大镜:MengTo称为Eye dropper tool,与Sketch官方文档一致。
+拾色器面板:Color Picker,与取色放大镜不同，应注意区分。
+         拾色器面板含有取色放大镜按钮。
+
+
+1.2)Color palettes
+在拾色器面板中有Global Colors(Global Gradients,Global Patterns)和Document Colors(Document Gradients,Document Patterns).
+也可以从网上下载颜色版文件(.sketchpalette)然后导入Sketch.
+导入方法:貌似要通过调色板插件(Sketch Palettes plugin)来弄。
+		一个调色板插件:https://github.com/andrewfiorillo/sketch-palettes
+【问】如果不通过插件来管理调色版怎么弄？
+【问】调色板插件一般有什么作用，跟Sketch自带的拾色器面板(color picker)和eyedropper(取色放大镜)相比有何优势？
+【问】现在有哪些热门的调色板插件？它们的机理和导入导出的文件格式都一样吗？
+【问】Sketch拾色器面板的Global Colors，有无对应的一个.sketchpalette文件？
+
+视图一:获取颜色的方法
+方法一:通过Sketch自带的取色放大镜，从浏览器的调色网站中直接拾取
+方法二:下载颜色版文件(.sketchpalette)，再(通过调色板插件Sketch Palettes Plugin)导入Sketch
+
+----------------------------
+2.Text
+苹果:San Francisco
+	 苹方
+谷歌:貌似Roboto(2012年发布,安卓平台系统字体),Open Sans(2011年发布,汲取Droid Sans部分优势)
+     思源黑体(Source Han Sans)<---谷歌和Adobe共同推出
+     思源宋体(Source Han Serif)：是对应于思源黑体的宋体字体<---谷歌和Adobe于2017年4月3日发布https://source.typekit.com/source-han-serif/cn/
+              支持四种不同的东亚语言（简体中文、繁体中文、日语和朝鲜语）
+              7 种粗细类型中的每一种都有 65,535 个字形，可共同呈现一致的视觉美感。
+              该字体还包含多个西方字形，支持拉丁语、希腊语和西里尔文脚本，这些字形均来源于 Source Serif
+
+其它流行:Avenir
+
+----------------------------
+3.Photoshop形状图层导入Sketch
+在Photoshop中，File->Export->Path to Illustrator,然后在出现的弹框里选择Illustrator打开的文件名，但是随后又出现一个另存为.ai格式的保存对话框。<---这个待测试 
+在Illustrator中，打开这个.ai文件，可适当编辑，然后File->Save as->另存为SVG格式。
+在Sketch中，打开这个.svg文件。
+
+----------------------------
+4.(MengTo常用)Keyboard Shortcuts
+【待】将MengTo常用的和我在Sketch.txt中罗列的重要快捷操作进行合并总结。
+
+
+----------------------------
+5.Essential Plugins
+5.1)Sketch Constraints类目
+a)Fluid 	（https://github.com/matt-curtis/Fluid-for-Sketch）
+基于Auto Layout constraints，可用来创建更加constraint-based, responsive designs.
+帮助你adjust the design based on the Artboard size. 
+
+当你需要设计很多resolutions(iPhone 5, 6, 6 Plus, Android, Web)时,你可以节省大量时间by设置constraints(就像在Xcode中使用Auto Layout一样)。
+这个插件模糊了设计与开发的界限。//This truly closes the gap between design and development.
+
+Working with adaptive layouts has been a major need for designers.
+【待】待把玩Sketch Constraints类目的插件
+【待】Sketch-Constraints.sketch  <---看看这是啥文件
+
+5.2)Sketch Palettes类目
+a)Sketch Palettes 		(https://github.com/andrewfiorillo/sketch-palettes)
+A Sketch plugin for 导出(.sketchpalette格式)，导入(.sketchpalette格式) fill presets. It supports colors, gradients, and Pattern fills.
+
+5.3)展示类目
+其实就是将最终高保真原型效果图弄到透视角度的各种Mockup(Device)中。
+如果不通过这种插件，也完全可以在Photoshop中手动制作perspective mockups，而且Photoshop也有Mockup的PSD可供下载，里面只要替换智能对象就可以了。
+使用这种类型的Sketch插件，也就是图个方便而已。
+a)
+Magic Mirror 		(http://magicsketch.io/mirror/)
+适合此软件的的Mockup素材有收费的也有免费的，看了一下免费的高质量的有很多，所以推荐一个。
+http://magicsketch.io/mirror/template/
+【待】Magic Mirror官方放的.Sketch类型的template，是否需要配合其Magic Mirror插件一起使用？还是说光凭Sketch就能用了？
+
+b)MengTo的Mockup Package 			(https://designcode.io/angle)
+貌似有个免费的192M的sample包，Sketch格式的。
+
+5.4)Sketch Content Generator类目
+
+a)Content Generator 		(https://github.com/timuric/Content-generator-sketch-plugin)
+可以批量将Sketch中指定对象图层生成avatars, names, geo location data etc.
+In Sketch app use Plugins\Content Generator\Images\Custom plugin to specify path to your own folder with images
+貌似这个插件需要直接选取对应对象图层(一般将复用的对象图层进行编组)，而不能对Symbol进行操作。
+
+5.5)动效交互原型类目
+a)Flinto 					(https://www.flinto.com/mac)
+支持Mac系统
+
+5.6)切图标注类目
+a)Zeplin   					(https://zeplin.io/)
+支持Sketch和Photoshop
+
+b)Slicy[仅叶秋推荐] 			(http://macrabbit.com/slicy/)
+.psd的切图输出，好像我之前把玩过。
+
+
+
+----------------------------
+二.Mastering Sketch 3
+1.Scissors工具
+MengTo的圆变半圆的例子
+MengTo的Scissors工具配合(基于辅助线的)添加锚点工具的神作图的例子。
+【问】MengTo例子中，添加锚点工具为何能利用别的图层作为辅助线(打在两个图层相交位置)进行定位？
+   如果是我，估计就要用锚点微调精确定位的方法(在两个图层曲线相交位置精确地)添加锚点，然后再删除其它不必要的锚点。
+【待】我觉得解决"如何制作4边不同颜色的空心十字" 的方法中，也能借助Scissor工具来完成。
+    因为我觉得，凡是涉及到删除锚点，都可以想一想能否通过Scissors工具来完成。
+
+----------------------------
+2.Broder Options
+MengTo的Apple Watch rings例子。
+
+注:
+vectorizing borders，是Sketch对于Working with Vectors多种控制方式之一，
+此外还有combining simple shapes, 
+	   rounding vector points(圆角)[双击Shape选中锚点在Straight(尖)模式中可调整圆角].
+----------------------------
+3.Background Blur
+MengTo的Home页底部Dockl例子。
+----------------------------
+4.Align Options(Align,Distribute)
+MengTo的针对图层进行Align,Distribute例子
+----------------------------
+[略]5.Regular Grid <---已总结至Sketch.txt - 二十三.优先设置 & Sketch.txt- 十一.Canvas(画布) - 6.1)Regular Grid
+Material Design提倡8dp的Grid system.
+         /*Material Design encourages a 8 dp grid system in order for shapes, text and baselines to fall perfectly into those lines. This promotes better spacing and cleanly divided layouts. */
+iOS没有具体要求，但是大多数情况，最好有至少8pt的padding和margin.
+         /*Mostly, you are encouraged to have a minimum padding and margin of 8 pt.*/
+具体到设置上，就是在View->Canvas->Grid Settings中:Grid Block Size:8px
+         										Thick Lines every:0px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
