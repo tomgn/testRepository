@@ -1,0 +1,934 @@
+Ctrlpaint.com
+
+———————————————
+资源页|
+——————
+http://www.conceptart.org/
+http://www.lovecastle.org/draw
+http://onlinelifedrawing.com/  <---anatomy reference,各种pose的人体model，免费的不高清只有预览不过也够用了。
+
+http://www.thesartorialist.com/ <---costume的reference material  ,此网站是street fashion或曰街拍
+https://www.pureref.com/download.php <---photoshop素材文件夹预览插件,免费
+
+http://proko.com/ 
+http://www.proko.com/library/  <---画人体的黄金教程(免费)，严重推荐
+http://www.posemaniacs.com/thirtysecond    <---Matt推荐的一个网站，用于pose的速写练习。
+
+3dbody  <---一个3D人体的app,知乎网友推荐
+
+【待】youtube上Salem Shanouha，总结了画人体的诸位大师(含Andrew Loomis,George B.Bridgman,Burne Hogarth)的方法
+   https://www.youtube.com/channel/UCXMW--iiuRieIJcKu05IGfQ/playlists
+
+
+Glen Keane(迪士尼工作38年Disney animator)
+Eric Goldberg(迪士尼)
+
+Matt推荐了一些教constructive atanomy的作者的书目
+Andrew Loomis<Figure Drawing For All Its Worth>
+George B.Bridgman<Constructive Anatomy>
+Glen Vilppu<Drawing Manual>
+Burne Hogarth<Dynamic Anatomy>
+以上是画人体的四位大师Andrew Loomis,George B.Bridgman,Glen Vilppu,Burne Hogarth
+
+
+———————————————
+Question|
+—————————
+【问/答】既然能拍照，那么高保真手绘的意义是什么?
+【问/答】插画与UI高保真拟物的区别
+【问】感觉本节是使用铅笔及大拇指伸直胳膊的一种标记法吧？
+	 这是否只适合被画物体与人的距离大于一个胳膊的距离？如果我是在电脑上看photo ref来进行绘画，不能通过伸直胳膊用铅笔及大拇指进行测比例了，那就只能纯用眼观察了。
+     那么一个unit长度确定好后，是否就是通过拇指顺次后移来衡量其它部分是几倍的unit？
+【待】当draw with the tip of the sharpend pencil就像在纸上雕凿，这种画法以后再讲。
+【待】感觉2.2)这里的结构块，是纯2D的，更多的只是考虑ref photo中的相对位置关系，并没有像2.4.1)中使用3D的形状来打稿。
+【待】我觉得既然是总结，应该少了以2.4)constructive form开始的方法。
+【问201712220000】如果对photo ref进行tracing，应该就能直接出铅笔稿了吧？
+   我的意思是，铅笔稿是由线条构成的，对于有楞有角的地方，肯定要画线条，但对于无棱无角的地方，是否要画线条或者该怎么表示出来，对于线条的取舍，仍是一个需要研究的问题。
+   线条的取舍:比如人脸正面鼻梁轮廓，没有明显的棱角，很多铅笔稿就不画，只画鼻头底部部分。
+【待/答】旋转纸张之前，首先应该了解自己的胳膊画哪种线条及曲线最自如。
+【问/答】加粗线条的功能？
+       何时加粗线条？
+【问/答】铅笔稿如果之后要rendering，是否还用加粗线条？
+【待】画人物时，应掌握anatomy，这是基础。
+【问】如何在model形体轮廓pose上画服装？
+【待】photo ref的颜色版创建，这倒是一个好的参照方法。
+【待】human proportion( chart) <---下载几个比例图
+【问】我觉得1.1)visual measuring是配合"2.2)Drawing shape之Linear Block-in technique"这种画线块(straight-line segments)的技法的。
+    但是不知道1.1)和2.2)是不是同种技法？
+【待】我觉得画2.2)线块，也应使用到"1.1)Visual measuring之角度angle measuring"这种angle measuring(visual measuring)的技法。 
+【待】画人体的学习步骤
+    我觉得人头(未知侧重)，人体(侧重骨骼，肌肉，姿势)是两个部分。   
+    看看https://www.udemy.com/anatomy-and-figure-drawing-for-games-and-comics/
+        https://www.udemy.com/how-to-draw-pinups/
+        这种收费教程的学习流程。
+
+———————————————
+置顶|
+————
+如果在ps上直接对photo ref进行tracing，或者利用3D软件得到形体，则不存在画1)visual measuring结构块和2)drawing shape这种的问题，画出来的(应该直接)就是具有准确位置的铅笔稿线条。
+不论是1)visual measuring还是2)drawing shape，都是对已存在的object(或其photo ref)的观察进行的绘制，不涉及创作，所以感觉没有引入消失点这些涉及设计领域的知识。
+但是看2.4)constructive form节，作者提到了画杯子时也是可以simplify a coffe cup into basic shapes(基本形体)构造其为一个圆柱体(杯身)一个立方体(杯柄)一个圆锥体(底座)的，这种方法类似于Scott的<How to Draw>的画法。
+
+
+
+所以目前，我觉得绘制铅笔稿分四种思路:
+a)创造性绘制(drawing from your imagination):对于工业制品需要了解how to draw的知识(其实主要是透视)，
+                                           对于人物需要了解人体姿势比例结构肌肉。 一个重要的分支是anatomy.
+                                           对于其它东西(比如山羊)，也不常见，即使眼睛画歪了一般也看不出来。
+  注:其实没有完全凭空凭经验的创造性绘制，因为你越强调细节，那你就越应该借助reference material，从中找参考和灵感。
+b)半创造性绘制(Real Object, Imaginary Details):(通过观察法或tracing)基于现实物体的形体，创造性地改变细节。
+/*see 三.Drawing 2 - 5.4)Real Object, Imaginary Details:一张老头图片画出三种特征的老头脸*/
+/*see 五.Using Reference Materials - 4)Designing with reference:网络收集很多潜水服,然后画在一个figure上*/
+/*see 六.Anatomy - 2)Quick Pose Gesture Sketching:此法基于Andrew Loomis(著有<figure drawing for all its worth>)的画figure的方法。
+                                                  此法将observation sketching和memorized anatomy结合在一起，可以迅速(在不到一分钟内)capture poses.*/
+  constructive drawing有一种技法，see"二-2.4"，其中对于人体有更深的分支，即anatomy。
+
+c)观察法绘制(observational drawing):可以实物观察，也可以对photo ref进行观察，然后两遍rough drawing后进行铅笔稿图层的refined drawing. <---画出来的与原图层重合比对时，一定会存在差异(比如Aron Base画山羊左眼就画偏了)。
+  observational drawing tech有五(六)种技法，即二-1.1,(1.2未提及但应该有),2.0,2.1,2.2,2.3  see"二-2.5"
+
+d)图层Tracing:
+  对photo ref直接tracing.
+  对3D辅助软件(如C4D物体，art pose人体)直接进行tracing.
+  个人感觉，tracing是观察法绘制的一种取巧的tip，优点是效率高，缺点是最好有些变化以便作为原创，不然拍照就行了何必画画。
+seealso "问201712220000"
+
+铅笔稿的四种思路说起来也就是
+constructive drawing:a,b(部分)
+                  //其中a中对于人体的有更深的anatomy分支。
+observation drawing:b(部分),c,d
+一个好的artist应该同时掌握constructive drawing和observation drawing.
+//observation drawing亦称为observation sketching.
+/*see 六-1)
+constructive drawing，可以自由地凭空创建无数pose，但可能缺乏细节和真实感(realism-nature randomness)。
+observation drawing(from photo)，取材于真实，所以细节和真实感都有保证，但当需要创作unusuall charactors或unusuall camera angles,从网上不一定能找得到参考，受制于素材。
+*/
+
+
+关于3D软件:
+ 使用3D软件，输出铅笔稿，然后导入PS，正片叠底。
+ 3D软件对于修改铅笔稿具有很大的便利，尤其是角度和透视:缩放和调整视角即可
+                                        阴影投影:设置一下灯光即可
+                                        变形:只需对相关模块进行调整，不必牵一发而动全身。
+ Google的SketchUp很适合创建hard surface objects (architecture, vehicles, etc)
+                 但是不适合创建organic creations. 
+———————————————
+Index|
+——————
+二.Traditional Drawing
+0)pencils and erasers
+1)visual measuring
+	1.1)Visual measuring之角度angle measuring<---角度的准确性
+	1.2)Visual measuring之比例proportion     <---相对长度的准确性
+2)drawing shape
+	2.1)Drawing shape之Contour line drawing
+	2.3)Drawing shape之negative space
+	2.0)ellipse technique(2.5提到)
+	2.2)Drawing shape之Linear Block-in technique
+	2.4)constructive form
+	2.5)Drawing shape之Simple Still Life   <---observational drawing五种技法,constructive drawing一种技法
+3)Crosshatching(交叉排线法)
+
+三.Drawing 2
+1)Sketching With Line  <---rough drawing到refined drawing流程
+2)Fluid(流畅的) Linework(线稿)	<---PS中画顺滑线条的几种tip
+3)Canvas Rotation 	<---没用章节
+4)Line Weight
+5)合集               <---偏创作
+5.1)Simplifying Form
+5.2)Form, Not Shape
+5.3)Reintroducing the Still Life
+5.4)Real Object, Imaginary Details
+5.5)Exaggeration
+5.6)Expressiveness in Your Drawing
+
+四.Composition Basics     <---构图理论
+1.Principles of Design: Scale and Proportion
+2.Principles of Design:Rhythm and Repetition
+3.Principles of Design: Emphasis
+4.Principles of Design: Balance
+5.Principles of Design: Movement
+6.Principles of Design: Unity
+
+7.Visual Simplification
+8.Avoiding Visual Tangents
+9.Information Hierarchy
+10.Compositional Framing Elements
+11.Shadow Shapes
+12.Using Text in a Composition
+13.Critique
+
+五.Using Reference Materials
+1)Welcome
+2)Draw Anything in 3 Steps
+3)Using Reference Materials
+4)Designing with reference
+5)Costume Reference
+6)Costume Sketching
+7)A Better Way to Use Reference Images
+8)The Tiny Study
+9)Simplifying Photo Studies 
+10.1)Film Studies-Capturing Stills(剧照,静止摄影)
+10.2)Film Studies-Gesture
+10.3)Film Studies-Foreground,Middleground,Background
+10.4)Film Studies-Color
+
+六.Anatomy
+———————————————
+Content|
+————
+二.Traditional Drawing
+
+0)pencils and erasers
+https://www.ctrlpaint.com/videos/unplugged-pencils-and-erasers
+pencil专题(https://www.ctrlpaint.com/videos/ctrlpaint-unplugged-introducing-the-pencil)
+
+a)kneaded eraser:软头橡皮擦,类似PS中硬度低的柔性橡皮擦
+			   /*do soft erasing.*/
+b)vinyl eraser:硬头橡皮擦，类似PS中硬度高的硬头橡皮擦
+
+c)HB pencil:没细讲。
+			硬sharp,清晰,类似PS中硬度高的画笔。
+			适合进行(最终final lines,fine edged lines)铅笔稿绘制。
+  2H pencil:写字时的握笔姿势就是平时最常见的握笔法，因为字很小并且每个字占据的区域很小所以使用这种握笔姿势也就局限了绘画的范围(limit your range of motion)。
+  			绘画领域，即要求能画很小的区域，也要求能画很大的区域，这需要你使用不受限制的握笔姿势。
+  
+  drawing from the shoulder:我将之称为"笔侧运笔法"
+  							bending your elbow(肘部) in  your shoulder.
+  							not in your fingertips(指尖).<---写字时常以指尖为支点运笔。
+  							not in your wrist(手腕).	  
+  							说白话，就是以肩部为支点运笔，而非以指尖或手腕为支点运笔。<---其实我觉得用指尖，手腕，还是肩部为支点运笔，完全取决于需要绘制的线条的长度。如果线条很短比如只有5mm，(其实)用指尖为支点运笔更合适。
+
+  							使用这种运笔姿势时，用side of the pencil(笔侧)绘制柔和(soft)的顺滑(fluent)的线条，loose guesture sketching.
+  							注:我觉得用笔侧，那么握笔就要像乒乓球一样横拍握法，而非写字时那种直拍握法。
+
+  【待】当draw with the tip of the sharpend pencil就像在纸上雕凿，这种画法以后再讲。
+
+  pencil根据石墨含量由低到高分为9H,8H,7H,...3H,2H,H,
+  							F,HB(美国又称为No.2 pencil)
+  							B,2B,3B,...,7B,8B,9B
+  							B越大越深dark越软，H越大越浅light越硬笔头越能削得很尖。
+
+
+
+d)colored pencil:与HB pencil最大的不同，材质不是石墨(graphite)而是蜡(wax)，画在纸上更柔(soft feel in paper)，类似PS中硬度低的画笔。
+				 适合进行rough drawing找结构。
+				 在传统纸上画的情况中，这种笔画出来的经过机器复印出来是不会显示的，当然现在都是PS了，可以隐藏掉rough drawing的图层。 
+
+
+
+1)visual measuring
+1.1)Visual measuring之角度angle measuring<---角度的准确性
+用水平及竖直的铅笔比对角度，画在画布中。
+需要借助铅笔，比角度。
+【问】我觉得1.1)visual measuring是配合"2.2)Drawing shape之Linear Block-in technique"这种画线块(straight-line segments)的技法的。
+    但是不知道1.1)和2.2)是不是同种技法？
+
+
+1.2)Visual measuring之比例proportion     <---相对长度的准确性
+With pencil, ruler,(estimated)unit(这个unit可以是任意长度，但是当确立这个unit长度后，在画面中就固定了)
+画出带有unit单位的各种结构块(rough shape with length and proportions)
+To practice this, let me suggest you to try with those tutorials where you start drawing shapes to make an animal. You can use the initial shapes to find any unit of reference, and when you add details on each step compare them to that unit to guess their proportional size. Angle measuring is also very useful here.
+注:figure drawing人像画中，由于人体比例我们天天见稍微画不好就很明显，所以最好掌握理论知识有个参照，但是画别的比如工业制品比如动物，即使比例不对我们一般也看不出来，所以就使用观察法进行铅笔稿的绘制即可，并且工业制品业不存在固定的比例，动物千变万化，不同地方的品种也不同，也不必研究其比例，也就只有人体需要有比例(姿势)的理论知识而已。
+注:youtube上另一个画动物的老头，也是通过各种结构块来进行rough drawing(虽然他后来把photo ref图层叠上后发现把山羊左眼画偏了)，不进行unit的衡量，纯用眼来比较，当觉得画得比例需要调整时，使用套索工具移动之。
+以上是画铅笔稿之前的rough drawing，也就是通过形状确立比例结构的参考线，基于此降低本图层不透明度后，可绘制铅笔稿图层。
+【问】感觉本节是使用铅笔及大拇指伸直胳膊的一种标记法吧？
+	 这是否只适合被画物体与人的距离大于一个胳膊的距离？如果我是在电脑上看photo ref来进行绘画，不能通过伸直胳膊用铅笔及大拇指进行测比例了，那就只能纯用眼观察了。
+     那么一个unit长度确定好后，是否就是通过拇指顺次后移来衡量其它部分是几倍的unit？
+
+2)drawing shape
+2.0)ellipse technique
+//2.5)Drawing shape之Simple Still Life提到
+https://www.ctrlpaint.com/videos/drawing-shape-simple-still-life
+a)
+1:42 oval[椭圆] exercise,肩膀发力,loosely drawing,在纸上画椭圆，使用笔侧绘制。
+	 /*loosely drawing from the shoulder,and put ellipse down in the paper,use the side of your pencil that serve energy to it.*/
+可单独作为第一步
+b)
+2:03 (也)可以作为1.1)Visual measuring之角度angl measuring的后手。 
+
+
+
+2.1)Drawing shape之Contour line drawing(外形,轮廓,outline)
+https://www.ctrlpaint.com/videos/drawing-shape-contour
+Contour line drawing是肉眼tracing的方法。
+弊端:单纯进行counter line drawing，最容易比例画错，结构歪七扭八，所以这种方法其实对于形体的把握要求最高。
+     这种画法直接就开始画轮廓线不用任何草稿，画出来的线条和最终稿子基本八九不离十，也种方法是零基础的人的唯一(能想到的)画法。
+本节作者说(他喜欢)基于上节打好结构块的rough drawing基础上进行的，评论中提到学院派的画法时连最基本的rough drawing的结构块都不画，直接怼轮廓线。
+画出来的感觉就是精确的铅笔稿图层了，其实这也是看轮廓的精细程度，当结构块够用时，那你就精确地画铅笔稿精度的形体，当结构块不够用时，那你就还是画结构块为铅笔稿程度的精确形体轮廓线打基础，这也就是2.2)涉及的内容。
+
+肉眼tracing vs 图层tracing:
+肉眼直接tracing，不如把photo ref作为Photoshop底层图层进行图层tracing。
+
+两个评论提到，学校里教的画轮廓的方法是:
+	不借助结构块，直接看形体画轮廓期间不看纸，
+	当提笔时或轮廓转向时看纸对画出的形体线进行修改
+	重复上述步骤，完成轮廓线的绘制
+但貌似这只是一种基本功的练习，旨在强调画准。
+Matt说:最好在rough drawing结构块上进行轮廓的绘制，学校教的方法是锻炼careful observation的，只是一种训练。
+	   /*I agree, it's unusual to be able to draw in perfect contour without any structure underneath*/
+我觉得本节就是1.2)visual measuring之比例的后手，根据有限的结构块，在其中通过对物体的观察进行轮廓的绘制。
+            
+
+
+2.2)Drawing shape之Linear Block-in technique
+https://www.ctrlpaint.com/videos/drawing-shape-linear-block-in
+从最大的线块(straight-line segments)画，然后细分更多更小的线块，将rough drawing的线块弄得事无巨细，然后铅笔稿的线条的位置就很好画了。
+//straight-line segments线块:在后续章节"五.Using Reference Materials - 6)Costume Sketching"亦称为large angular shapes
+【待】我觉得画2.2)线块，也应使用到"1.1)Visual measuring之角度angle measuring"这种angle measuring(visual measuring)的技法。 
+
+
+【待】感觉2.2)这里的结构块，是纯2D的，更多的只是考虑ref photo中的相对位置关系，并没有像2.4.1)中使用3D的形状来打稿。
+[答]是的，2.5视频中提到，这里的结构块是divide it into more specific angle.所以这里的结构块，为了与2.4)中的区分，我应该称之为线块(straight-line segments)。
+	turning straight-line segments eventially into curved forms.
+/*
+注:
+本节与2.2)的不同在于，2.2)是通过不断细化2D层面的线块(straight-line segments)得到form,
+				   2.4)中的结构块(rough shape)是3D层面的基本结构(basic shape)，如cube立方体,sphere球体,cone圆锥等。
+*/
+
+2.3)Drawing shape之negative space
+https://www.ctrlpaint.com/videos/drawing-shape-negative-space
+negative space:被画物体轮廓之外的区域。
+[乱入]其实negative space，和positive shape看起来是一样的。
+
+
+2.4)constructive form
+https://www.ctrlpaint.com/videos/constructive-form-pt-1
+https://www.ctrlpaint.com/videos/constructive-form-pt-1-5
+https://www.ctrlpaint.com/videos/constructive-form-pt-2
+核心就是通过基本形状(basic shape)画出结构块(rough shape),再通过必要的轮廓线(contour line)来体现出3D结构，以此构建出rough drawing骨架，然后可基于此创建更具细节detal的铅笔稿。
+
+注:
+本节与2.2)的不同在于，2.2)是通过不断细化2D层面的线块(straight-line segments)得到form,
+				            2.4)中的结构块(rough shape)是3D层面的基本结构(basic shape)，如cube立方体,sphere球体,cone圆锥等。
+
+
+2.4.1)通过基本形状(basic shape)构建constructive form.
+观察画法的rough drawing画结构块(rough shape)，作者提到了画杯子时也是可以simplify a coffe cup into basic shapes构造其为一个圆柱体(杯身)一个立方体(杯柄)一个圆锥体(底座)的。 
+//杯子视频   Simplifying Form(https://www.ctrlpaint.com/videos/simplifying-form)
+创作时的rough drawing，就画constructive form，是由一系列基本结构组成。
+基本结构(basic shape):如cube立方体，sphere球体，cone圆锥等。
+个人感觉，也就跟Scott的<How to Draw>一样，画生物CG，也可以在rough draw画结构块时使用基本形体(basic shape)建立其比例与结构，作为"骨架"(之后再细化细节.)
+
+
+2.4.2)通过必要的contour line体现出constructive form的3D观感，打好rough drawing的骨架。
+rough drawing构建constructive form阶段，主要是通过一条条contour line(轮廓线)，其实就是Scott的section line,来呈现出3D观感。
+但是个人感觉，画出的contour line轮廓线要有意义才行，不然到时还是要擦掉。
+
+2.4.3)画detail铅笔稿
+在roungh drawing骨架建立好比例结构后，画细节detail，出来的是成品铅笔稿。
+作者提到，一会画这里一会跳到那里都是作者自己很随意的，想画鼻子时画鼻子，鼻子画腻了跳到其它部位画一画。
+
+
+2.5)Drawing shape之Simple Still Life  <---observational drawing五种技法,constructive drawing一种技法
+最终的成品是
+nice clean linear drawing.
+pretty clean line drawing.
+the end result should be clean.
+也就是(貌似是结构素描风格的)铅笔稿
+
+本节讲述了创作出2.5)铅笔稿的四种过程。
+以1.1)angle measuring(亦称为visual measuring)开始，接2.0)ellipse technique
+以2.0)ellipse technique开始
+以2.3)Drawing shape之negative space开始
+以2.2)Drawing shape之Linear Block-in technique开始
+另:也有以2.1)Drawing shape之Contour line drawing开始，见"六-1-a2-observation drawing技法.jpg"
+   作者称2.1),1.1),2.3)为observational drawing technique.
+        由于2.0)也是需要观察的，
+
+   所以我觉得实际的observational drawing tech有五(六)种技法，即1.1,(1.2未提及但应该有),2.0,2.1,2.2,2.3
+
+另:constructive drawing，有一种技法，即2.4)constructive form画结构块
+
+
+【待】我觉得既然是总结，应该少了以2.4)constructive form开始的方法。
+
+
+3)Crosshatching(交叉排线法)
+https://www.ctrlpaint.com/videos/crosshatching
+在手绘时涉及光影时画影子的一种快速表现方法。
+注:影子线条(hatch lines)的走向，最好能呈现出形体的表面轮廓(contour line,cross-contour line)为宜。
+   使用线条的多少控制value与tone的明暗。
+
+
+三.Drawing 2
+1)Sketching With Line
+https://www.ctrlpaint.com/videos/sketching-lines
+本节讲述输出最终clean sketched lines的过程，也就是rough drawing到干净铅笔稿的过程。
+from fast messy,to slow control
+作者在画铅笔稿图层之前，分别使用了两次rough drawing图层，第一次用大圆头硬画笔，绘制粗略的线条，只关注比例。
+第一次图层绘制完毕后，降低图层不透明度，再新建基于此的第二个rough drawing图层，这次画得稍微细致一些，绘制时，放大画布进行较为细致的绘制。此时的线条可以毛糙，不连续，只是标出了各细节图层的大概轮廓和位置。
+第二次图层绘制完毕后，降低图层不透明度，再新建基于此的铅笔稿图层，绘制时，将画布放得更大进行更为精确的绘制，这次使用黑色画笔画得最细致干净。此时的线条轮廓应(尽量)闭合，曲线要平滑优美，也就是最终铅笔稿图层的线条。
+//画笔:大圆头硬画笔(a large round flat brush)
+注:经观察，绘制铅笔稿的线条时，一个线条可以一笔一笔描很多次，只要每一笔首尾相接连贯上就行。
+						  如果某一笔较细，可以在其上再描一笔使之变粗(达到所需粗度)。
+						  如果某一笔较粗，可以用橡皮擦擦细一些(达到所需粗度)。
+   一个线条不一定非要一次性画完再画另一个，完全可以先画画线条a，画上一半就跳到线条b上画一画，再跳回线条a画画。 eg:4.3步骤画的线条就是接着4.1步骤的线条接着画。4.2步骤画的是另一个线条。
+注:线条:铅笔稿是由一个个线条构成的。
+   一笔:一个线条可以是一笔或者若干笔构成，这些笔可以首尾相接，可以覆盖，只要线条总体呈现出平滑等宽即可。
+注:rough drawing过程中，是随时可以用橡皮擦改掉不适合的形态形状重新画的。
+建议:rough drawing时用蓝色画笔，铅笔稿的refined drawing时用黑色画笔。
+
+【问201712220000】如果对photo ref进行tracing，应该就能直接出铅笔稿了吧？
+   我的意思是，铅笔稿是由线条构成的，对于有楞有角的地方，肯定要画线条，但对于无棱无角的地方，是否要画线条或者该怎么表示出来，对于线条的取舍，仍是一个需要研究的问题。
+   线条的取舍:比如人脸正面鼻梁轮廓，没有明显的棱角，很多铅笔稿就不画，只画鼻头底部部分。
+
+
+2)Fluid(流畅的) Linework(线稿)
+https://www.ctrlpaint.com/videos/fluid-linework
+本节讲述在铅笔稿绘制阶段的线条顺滑的tip。
+本节讲述使用PS配合手绘屏绘制顺滑线条的tip。
+充分利用新建图层，橡皮擦工具，合并图层，来绘制铅笔稿。
+本节特别针对线条趋势有明显变动(比如在两头的大走势一致下突然中间多出了震荡的线条)的情况，给出了一个解决方案。
+我将其简称为"海胆tip","刀齿tip".
+
+另:在3)Canvas Rotation节中，介绍了"工字之竖tip"-先穿透，再擦除溢出部分。
+
+3)Canvas Rotation
+https://www.ctrlpaint.com/videos/canvas-rotation
+在传统纸笔绘画中，旋转纸张是second nature，以便胳膊能画出直的直线或顺滑的曲线。
+旋转视图工具快捷键:R
+【待】旋转纸张之前，首先应该了解自己的胳膊画哪种线条及曲线最自如。
+【答】我个人感觉，我不需要旋转纸张/画布，直线我就shift画出来，曲线多尝试几次，如果精度要求高，那我钢笔工具了。
+    所以本节没必要。
+
+4)Line Weight
+加粗的线条有很多功能，本节讲述两种。
+a)give Lighting information.
+背光面的线条弄粗(甚至能反映出投影本身)/*use heavier lines where there be a little thicker shadows.*/
+向光面的线条适当细一点。
+
+b)Depth
+营造出远近关系。/*use the line weight to indicate some of the perspective distance at work.*/
+越近的部分线条越thick&heavy,越远的部分线条越fine[细小的]&thin.
+
+
+【问】加粗线条的功能？
+    何时加粗线条？
+[答]其实加粗是相对而言，应该说线条的粗细。
+	作者说有很多功能，本节只讲两种。
+    远近关系:近粗远细，
+    明暗关系:暗粗亮细。
+
+【问】铅笔稿如果之后要rendering，是否还用加粗线条？
+[答]我感觉没有必要，甚至会对铅笔稿抠图之魔棒反选法形成干扰(画笔硬抠感觉也会有点影响)。
+    因为感觉把投影,阴影跟轮廓线混为一谈了。
+
+5)合集
+5.1)Simplifying Form
+https://www.ctrlpaint.com/videos/simplifying-form
+其实感觉啥都没说。
+seealso "【问201712220000】"
+5.2)Form, Not Shape
+https://www.ctrlpaint.com/videos/form-not-shape
+将photo ref进行3D化(绘制section line呈现出立体效果)的练习。
+这个练习对铅笔稿的半创造性绘制很有帮助，便于在real object之上进行imaginary details的绘制。
+seealso "5.4)Real Object, Imaginary Details"
+5.3)Reintroducing the Still Life
+https://www.ctrlpaint.com/videos/reintroducing-the-still-life
+作者说，在大学期间，他爱画龙(dragon)，画飞船(space marines)，但其实，多观察生活中手头边的东西进行绘制是很好的练习。
+比如放一只笔，或一个杯子，用台灯布好光，进行观察绘制。也可以用photo ref来绘制。
+5.4)Real Object, Imaginary Details
+https://www.ctrlpaint.com/videos/real-object-imaginary-details
+(通过观察法或tracing)基于现实物体的形体，创造性地改变细节。
+seealso "5.2)Form, Not Shape"
+5.5)Exaggeration(夸大)
+https://www.ctrlpaint.com/videos/exaggeration
+本节是Imaginary Details的一种方法，对同一个photo ref，夸大不同的部位，可以得到不同的作品。
+这里，夸大，就是使突出。
+我觉得，说到角色的变化，还真就是这样，把一些部位改变一下大小改变一下形状，重新捏合一下就变出新的东西了，所以好莱坞说没有新的角色，只需套个新的脸而已。
+//There is an Old Hollywood saying that there are no new roles-just few faces to fill them.
+
+5.6)Expressiveness in Your Drawing
+https://www.ctrlpaint.com/videos/expressiveness-in-drawing
+画人物时，首先应该掌握anatomy，这是for structure的，是基础。
+         作为提高，还应注重expression(表情)，这样角色就有了story.
+         如果只讲anatomy，那么画出来的将会是lifeless的效果。
+【待】画人物时，应掌握anatomy，这是基础。
+可以进行video screenshot，或者搜索相关图片，多trace真.人体比例。
+
+
+四.Composition Basics
+本章主要讲构图(Subject-matter,Arrangement,Camera Angle)，不讲任何绘画时的技法(Mark-making,Edge control,Texture,Style,Realism,Lines)。
+
+1.Principles of Design: Scale and Proportion
+https://www.ctrlpaint.com/videos/principles-of-design-scale-and-proportion
+本篇不知所云。
+其实本篇更类似摄影技法。
+
+Scale:尺度?deals with the measurable size of an object.
+           感觉是画作的比例尺，画作中object大小与实际object大小的比例。
+Proportion:比例?on the other hand, deals with the size of an object relative to those things around it. 
+overlapping:重叠、覆盖部分。
+            可以说明物体的相对远近。一个物体A能遮挡住另一物体B，那么A距离观察者更近。 
+            overlapping can help to tell the viewer which is closer.
+
+scale and proportion can help anchor the image in reality and express a sense of depth to the viewer. 
+
+2.Principles of Design:Rhythm and Repetition
+https://www.ctrlpaint.com/videos/principles-of-design-rhythm-and-repetition
+本篇不知所云。
+Rhythm:大概是说在repetition中每个重复的东西都要有所不同，比如很多碎石，那么每块碎石都应该有所不同而不应复制粘贴。
+
+
+3.Principles of Design: Emphasis
+https://www.ctrlpaint.com/videos/principles-of-design-emphasis
+本篇很有意义，讲了突出重点(营造focal point)的几种处理方法。
+一幅画，如果作者不去引导观者看哪里，观者只是会瞎胡看。如果作者有意引导观者向哪里看，被看的区域就叫做focal point.
+作者可以通过value contrast,color contrast,detail contrast,焦段sharp blur来控制focal point区域。
+value contrast:使focal point区域更亮一点。
+color contrast:使focal point区域更艳一点。
+detail contrast：使focal point区域细节更多一点，其它区域甚至只用铺个基色(配以简单的光影)体现出轮廓即可。
+(焦段)sharp blur contrast:使focal point区域sharp清晰，其它部分做焦外处理使之模糊。
+seealso"12.Using Text in a Composition":使用text，可以grab your attention.
+
+/*
+The principle of emphasis involves using contrast to make your focal point pop off the canvas.
+通过使用contrast(对比)，引导观者到需要注意的画面部分。
+the easist way to get emphasis is using value contrast.
+最常用的是通过对focal point区域使用value contrast或color contrast或模糊(太近或太远的都跑焦处理使之模糊，焦段上的最sharp清楚)或detail contrast来引起观察者的注意。
+pick the part of your image called focal point,which is where you want the viewers to look,and have that be the area of high contrast.
+*/
+
+4.Principles of Design: Balance
+https://www.ctrlpaint.com/videos/principles-of-design-balance
+其实本篇更类似摄影技法，讲的是构图，使画面平衡。
+
+visual balance.
+visually balanced image
+As an artist, it is important to create balanced images!
+
+除了object相对位置会影响画面平衡。
+光影产生的focal area也会影响画面平衡。
+综上，尽量使重心位于画面的中央区域。
+
+5.Principles of Design: Movement
+https://www.ctrlpaint.com/videos/principles-of-design-movement
+本篇作者提到的motion，是观察者眼球在画面中观察运动的轨迹，最终指向作者引导到的focal point.
+/* In truth, each Principle of Design is intended to help guide the viewer's eye, but "motion" is especially effective at this goal.*/
+
+作者通过剪头来展示如何引导人们的视线的，箭头指向的是最终的focal point，需要把观察者的注意力引到这个区域来。
+
+6.Principles of Design: Unity(一致,协调,和谐)
+https://www.ctrlpaint.com/videos/principles-of-design-unity
+本篇不知所云。从头到尾只有一张图片。
+和谐没有具体的科学依据，完全是以艺术家的眼光来判断的。
+"Unity", which is the state of balance in your image.
+
+7.Visual Simplification
+https://www.ctrlpaint.com/videos/visual-simplification
+本节说明了艺术创作与拍照的本质区别，很有用。
+相机拍出来的照片，只要焦距清楚，所有呈现出来的都会是focal point.
+手绘创作，需要有意识地制造focal point,就像"3.Principles of Design: Emphasis"中提到的那些方法。value contrast,color contrast,detail contrast等方法制造focal point.
+比如教程图片中的背景是书架的放在地板上的杯子照片，那么在手绘创作时，为了强调杯子，将杯子区域作为focal point，作者进行了:
+value contrast:将杯子的亮度提亮发白，将背景书架的亮度弄暗。
+(焦段)sharp blur contrast:将杯子锐化，将背景书架blur.
+
+【问】既然能拍照，那么高保真手绘的意义是什么?
+【答1】意义在于，可以人为地创造focal point，使用value contrast,color contrast,detail contrast,(焦段)sharp blur contrast.
+    而照片，只能根据焦段清晰焦外模糊这一种(焦段)sharp blur contrast方法创造focal point.
+   这样创作出来的作品，和拍照得到的在细节上会有很大的不同。
+   可以说，源于生活，(通过创造focal point)高于生活，这就是高保真手绘的意义。
+
+【答2】see"五.Using Reference Materials - 9)Simplifying Photo Studies"
+     Capture the essence:我们是artist不是camera，not just copy.
+                         不要对所有细节都一一画出，要有粗有细，有简有略。
+                         不用照着原色画，可以先调整一下原图颜色曲线(PS曲线调整图层之红通道，绿通道等)，调成更好看的颜色。
+                                                                          远景部分远虚原则，用PS(套索工具等选中之)的色阶(左滑块右调,右滑块左调)。
+                         然后再画。
+
+
+
+8.Avoiding Visual Tangents
+https://www.ctrlpaint.com/videos/avoiding-visual-tangents
+本节讲述构图，很有用。
+tangents:tag,正切，这里的意思只可意会。
+visual tangents:会flat your image,造成visual problem，造成观者的uncomfortable.
+                要避免发生visual tangents,要么使重叠overlap,要么使相离(white space,breathing room)
+
+/*
+被画物体不要与画布四个边缘相切，不要穿过画布四个边角。
+被画物体内部的组成部分也不要存在相切关系，容易造成spacially confusing.空间上的困惑。
+*/
+
+
+9.Information Hierarchy
+https://www.ctrlpaint.com/blog/information-hierarchy
+本节其实就是分析布局layout.
+作者以一个illustrator的角度来谈home page这个UI，角度不错。
+
+10.Compositional Framing Elements
+https://www.ctrlpaint.com/videos/compositional-framing-elements
+本节讲构图突出focal point的一种技法，通过framing element做背景元素,来烘托主object，而不喧宾夺主。
+framing element可以在主object后方，也可以在主object前方，也可以与主object一样远近。
+
+//Controlling the viewers eyes in your illustration is important - and some simple framing elements will often help in this effort. 
+//"Framing element" simply means a large object in the foreground that surrounds the subject, like a frame around a picture.
+
+【问】插画与UI高保真拟物的区别
+【答】
+我觉得，本篇适合illustration，也就是画布中有很多object构成的场景，而不是只画一个图标，也不是只画一个人脸，而是要把人画在周遭的环境中，或者画场景风景。
+        对于简单的只画一个object的UI高保真拟物，或者单体的illustration没必要也没有时机去画framing elements，不过插画比起单个object的绘制，也就是多了众多场景object。
+综上，插画的画布中，会有多个object，在focal point中会有主object，在focal point之外画一些framing element来烘托主object.
+      UI高保真拟物，画布中只有一个主object，然后弄个(渐变带纹理带光影效果的)背景完事了。
+
+
+11.Shadow Shapes
+https://www.ctrlpaint.com/videos/shadow-shapes
+本节唯一的体会，是3D软件调节光照角度生成不同角度的影子很便捷。
+
+
+12.Using Text in a Composition
+https://www.ctrlpaint.com/videos/using-text-in-a-composition
+text会grab attention，所以也是创建focal point的一种方法。
+看看cover封皮，看看website你就知道配合文字的图片，文字有多抓人了。
+
+13.Critique
+https://www.ctrlpaint.com/videos/critique
+a)使用作者的principle of design的宗旨来评判好坏，而不要仅仅说"好"，哪里好哪里不好，要有理有据:
+anatomy,perspective,scale,proportion
+Rhythm and Repetition,Emphasis,Balance,Movement,Unity
+b)先说优点，再说缺点需要提高的地方，再说优点。
+
+
+五.Using Reference Materials
+1)Welcome
+https://www.ctrlpaint.com/videos/welcome-to-using-reference-materials
+有一种观点就是，一个高贵的artist会画一切东西，你要是用reference material比如photo ref，你就是cheat.
+但其实，一个profesional artist不但会用reference，而且会用a lot of reference，不论对于新手还是老手，大量参照reference都可以作品更生动,look better,更加细节.
+
+
+2)Draw Anything in 3 Steps
+https://www.ctrlpaint.com/videos/how-to-draw-anything-in-3-steps
+Matt曰，市面上教how to draw _(dragons,cars,zombies,vampires)都是像菜谱一样第一步第二步第三步然后ban,画好了,只讲流程不讲原理。这类书会误导学生，让学生以为画car需要一本书，画woman需要一本书，画龙需要一本书。
+本节讲述任何一种object的画法。/*This video shows a versatile approach to learning any kind of new subject-matter*/
+因为画一条龙和画一个消防栓其实没有什么不同，都是观察，再练习而已。
+
+step1:visual research-更加了解你的作画对象。
+      下载大量的reference materials:photograph of real world object.<---photo reference，写实。
+                                   3D渲染输出稿                     <---最终作品的理想状态，写实。seealso"3)Using Reference Materials"
+                                   artist work之sketch             <---偏铅笔稿,彩绘稿,draw的层面
+                                   artist work之final works        <---最终作品,render的层面,有强烈的个人风格。
+      //不仅局限于photo ref，这样在每个环节都能有所参考。
+      这些大量的reference materials弄在一张PSD格式的文件中，每个对应一个smart object类型的图层，
+      此PSD文件，Matt称为digital reference sheet/digital reference board。
+      reference is simply a matter of detail.
+
+step2:contextual understanding
+direct observation(直接观察,不适用于科幻object比如龙和宇宙飞船)
+当你paint with imagination，你会combine 2 things:what you see,which is your reference sheet.
+                                                what you remember,你对于该object的理解。
+我觉得这一步是对step1中材料的分析和理解，摸清路数。
+
+step3:practice.
+      画正稿之前，多画几个副稿，练手用的，是为practice.
+
+
+
+3)Using Reference Materials(Finding the Right Reference)
+https://www.ctrlpaint.com/videos/finding-the-right-reference
+本文的核心，在于除了搜索object的photo reference，还应该搜索此object对应渲染出来的输出稿，将之作为reference material的组成部分。
+如果你想提高你的painting水平，问题不是你应不应该根据reference进行paiting，而是为了表达出你的object，最需要哪种reference来参考。
+本节讲述寻找painting reference的一种visual effects test renders方法。
+3D rendering 现在已经很photo realistic了。
+说人话，就是各种渲染软件的输出稿。
+这些渲染软件indirect lighting-light bouncing aroung one object to another,which allows colors to bleed onto another.
+也就是反光投影到面上时往往会带有反射面的颜色的效应。
+这个效应在渲染软件里，只需要打开一个开关即可。<---我姑且称之为indirect lighting开关。
+
+the same object rendering with 各种指定的skin.
+各种realistic materials 作为skin附加在3D模型上，真实世界里是不可能有鳄鱼皮灯的。will never be in the shape.
+
+3D渲染出来的东西，比如石膏体，静物，跟你肉眼在真实世界观察到的其实差不多了。
+
+如果你不会用3D软件并渲染，可以直接google一些关键字，
+Global Illumination (GI), Ambient Occlusion (AO), Caustics, Photons, VRay, Mental Ray, Radiosity.  
+后面加上test render 来搜索到这些软件的输出稿。
+
+
+/*
+If you are looking for the search terms mentioned in the video, here is a good starting point: Global Illumination (GI), Ambient Occlusion (AO), Caustics, Photons, VRay, Mental Ray, and Radiosity.  
+Search any of those along with "test render", and you will have some fun reference materials. 
+The anatomy reference was found at onlinelifedrawing.com
+*/
+
+4)Designing with reference
+https://www.ctrlpaint.com/videos/designing-with-reference
+本文是讲创作，而不是单纯地照着reference material作画。
+其方法就是，pick different pieces from different photograph.
+           combine them together with little bit of imagination.
+           and came up with brandly new design.
+
+尤其是charactor design角色创建中。
+第一步:收集相关costume服装                    <---还是进行visual research,创建digital reference board
+第二步:把model的形体轮廓pose画出来。           <---draw basic male/femal figure
+第三步:再dress your model,dress your charactor <---画裸体nude figures是没有任何意义的。
+       把穿上衣服的角色铅笔稿创作出来
+说到衣着，也就是几种风格:modern day 
+                       sci-fi:再科幻也是基于如今的modern day着装进化的。
+                       //古风:还是一样，多参考material吧。
+【问】如何在model形体轮廓pose上画服装？
+
+//costume:n.服装,衣服,演出服
+
+5)Costume Reference
+https://www.ctrlpaint.com/videos/costume-reference
+视频实际地址:https://vimeo.com/46681310
+本文讲Matts喜欢把收集到的Photo Ref放进一个PSD的设为smart object的图层中，作为digital reference board(reference sheet).
+注:在"7)A Better Way to Use Reference Images"节中，Matt将收集到的Photo ref放在一个文件夹，并使用了pureref.com的插件将其显示在photoshop中。
+
+
+Matt曰，他一直保持着使用reference进行paiting创作的习惯，因为有reference才会有detail.//reference is simply a matter of detail
+不光是他自己，在互联网普及前，illustrators经常会从报刊杂志上剪下照片进行保存，称之为"Morgue Files"或"Clipping Files".
+                          当assignment有任务来时，插画家就会从Morgue Files中寻找适合的照片作为参考。
+如今网络普及的时代，通过google,flickr等来搜索即可。
+本文讲述digital reference board(前文亦称reference sheet)的创建与管理。
+
+将收集到的图片拖动进PS中，每个photo ref对应一个图层，并设置为smart object，这样可以随意放大缩小不会失真。
+
+Matt曰，有些人喜欢把图片放进文件夹保存，但他更喜欢放进一个PSD里弄成智能对象。
+
+
+
+
+6)Costume Sketching
+https://www.ctrlpaint.com/videos/costume-sketching
+如果你是illustrator或者concept artist,你的charactor都不可能是naked的,也就是说画nude figures是没有任何意义的。
+要得到costume的material，Matt的方法是上fashion website，比如:
+http://www.thesartorialist.com/
+
+素材的整理:将收集到的photo reference弄进PSD中，调整至等高，并由左到右依次排列。
+          将由左到右登高的photo ref作为编组的一个文件并施以图层蒙版，以便每次只显示一张photo reference.
+
+比照素材画法://没有直接tracing，仍使用的传统的观察法。
+            先在一个空图层中比照素材图片画guesture的loose sketh.
+            作者分别画了3个figure草图，分别使用了3种方法。
+
+            方法一:guesture technique，画loose guesture lines
+            方法二:2.2)Drawing shape之Linear Block-in technique
+                      先从画大的angular shapes入手，然后在细化。
+            //我看不出方法一和方法二有什么明显的不同。如果说有，大概方法一具有某些人体anatomy的guesture的画法在里面。
+
+            方法三:2.1)Drawing shape之Contour line drawing <---没有任何基础的人的画法，缺点是比例结构最容易失调，也是要求最高的画法。
+            
+     
+7)A Better Way to Use Reference Images
+https://www.ctrlpaint.com/videos/a-better-way-to-use-reference-images
+本篇是作者推销一个软件用的，无意义。
+使用Photoshop 对photo refernce进行观察法绘制时，
+我可以通过使用Photoshop打开一个新建文档作为另一个窗口来显示photo reference.
+
+8)The Tiny Study
+https://www.ctrlpaint.com/videos/the-tiny-study
+这是一个关于取色的练习，画小图(5分钟左右即可完成一幅)，不关注细节，只关注颜色，颜色画像了即可。
+作者貌似仅主色调对photo ref取色，其余亮基色，暗基色等都是通过滑块调整的，甚至有些基色也是直接通过滑块调整的。
+
+
+9)Simplifying Photo Studies 
+https://www.ctrlpaint.com/videos/simplifying-photo-studies-pt1
+https://www.ctrlpaint.com/videos/simplifying-photo-studies-pt2
+https://www.ctrlpaint.com/videos/simplifying-photo-studies-pt3
+
+作画原则:
+Capture the essence:我们是artist不是camera，not just copy.
+                                           不要对所有细节都一一画出，要有粗有细，有简有略。
+                                           不用照着原色画，可以先调整一下原图颜色曲线(PS曲线调整图层之红通道，绿通道等)，调成更好看的颜色。
+                                                                          远景部分远虚原则，用PS(套索工具等选中之)的色阶(左滑块右调,右滑块左调)。
+                                           然后再画。
+
+
+
+
+10.1)Film Studies-Capturing Stills(剧照,静止摄影)
+https://www.ctrlpaint.com/videos/film-studies-capturing-stills
+still[n]:剧照,静止摄影。
+movie stills:电影剧照(影片截图)。
+
+本文讲Matt在看电影时爱截屏，留作之后分析学习。
+使用SPlayer的自带的屏幕截图快捷键,Alt+i，可以将屏幕快照保存至指定目录，这样比F1少一个拖动指定区域的环节。
+//原文是下载VLC Player也是免费的。
+
+
+10.2)Film Studies-Gesture
+https://www.ctrlpaint.com/videos/film-studies-gesture
+影片截图的目的1:guesture(pose)收集，适合的透视角度及pose，可以作为基本骨架，绘制创造性的生物。
+               这些pose，平时很难找到，并且很多素材网站也是要收费的。
+               eg.所以你看有很多大神illustrator怎么角度找得那么神，估计就是参照movie stills(影片截图)来的。
+
+
+
+10.3)Film Studies-Foreground,Middleground,Background
+https://www.ctrlpaint.com/videos/film-studies-foreground-middleground-background
+影片截图的目的2:场景收集，一幅照片中远景，中景，近景的相对位置，可以作为场景创作的基本构图，绘制创造性的场景(生物)。
+               注:这里的场景，大部分都是包含了生物角色的，并非只有风景，其实有没有生物角色并不重要，构图分为远、中、近景比较重要，因为可以丰富画面的层次，而不是只有object-background两个层次。
+               eg.所以你看有很多大神illustrator作品场景的层次怎么这么丰富，估计就是参照movie stills来的。
+
+
+10.4)Film Studies-Color
+https://www.ctrlpaint.com/videos/film-studies-color
+影片截图的目的2:收集调色版color pallet.
+               滤镜-像素化-马赛克
+               滤镜-像素化-晶格化
+【待】photo ref的颜色版创建，这倒是一个好的参照方法。
+
+
+六.Anatomy
+1)Introduction to Anatomy
+https://www.ctrlpaint.com/videos/introduction-to-anatomy
+//anatomy是一个huge subject，本节主要讲两点， observational drawing 和 constructive drawing.
+
+anatomy[n.]:解剖，解剖学，生物体的(解剖结构), 骨骼。
+
+anatomy的特征在于:它是先内再外(from inside out,from simple to complex)。
+                 是constructive drawing，可以自由地凭空(不依赖于photo ref)创建无数pose，但可能缺乏细节和真实感(realism-nature randomness)。
+                 是一种memorized的。
+//observation drawing(from photo)，取材于真实，所以细节和真实感都有保证，但当需要创作unusuall charactors或unusuall camera angles,从网上不一定能找得到参考，受制于素材。
+
+anatomy的大体流程是:建立骨骼线条:将人体首先看成一些简单的3D形状组成，这样可以让你凭空创建无数的pose.
+                   然后再建立肌肉组织(musculature)。
+                   最后(自然而然地，)建立(起了外)轮廓。
+【待】画人体的学习步骤
+    我觉得人头(未知侧重)，人体(侧重骨骼，肌肉，姿势)是两个部分。   
+    看看https://www.udemy.com/anatomy-and-figure-drawing-for-games-and-comics/
+        https://www.udemy.com/how-to-draw-pinups/
+        这种收费教程的学习流程。                
+
+Matt推荐了一些教constructive atanomy的作者的书目
+Andrew Loomis<Figure Drawing For All Its Worth>
+George B.Bridgman<Constructive Anatomy>
+Glen Vilppu<Drawing Manual>
+Burne Hogarth<Dynamic Anatomy>
+以上是画人体的四位大师Andrew Loomis,George B.Bridgman,Glen Vilppu,Burne Hogarth
+
+【待】youtube上Salem Shanouha，总结了画人体的诸位大师(含Andrew Loomis,George B.Bridgman,Burne Hogarth)的方法
+   https://www.youtube.com/channel/UCXMW--iiuRieIJcKu05IGfQ/playlists
+
+Top 20 Ways to Draw the Figure (1-Andrew Loomis) Tutorial[44:11]
+https://www.youtube.com/watch?v=V_GhKAgfAQ0
+
+Top 20 Ways to Draw the Figure (2-George Bridgman) Tutorial [42:36]
+https://www.youtube.com/watch?v=XAgeL68QQJA&t=1430s
+
+Top 20 Ways to Draw the Figure (3-Burne Hogarth) Tutorial series No.5 (Drawing from imagination)[50:52]
+https://www.youtube.com/watch?v=Y2krnBa8V5U
+
+
+
+2)Quick Pose Gesture Sketching  <---下接第5节
+https://www.ctrlpaint.com/videos/quick-pose-gesture-sketching
+capturing human anatomy是一项毕生追求。
+作为第一步，每日的练手(warming up)环节，gesture sketching(guesture drawing)是很有必要的。
+quick-pose sketching有很多方法，本节介绍一种constructive anatomy的方法。
+此法基于Andrew Loomis(著有<figure drawing for all its worth>)的画figure的方法。
+此法将observation sketching和memorized anatomy结合在一起，可以迅速(在不到一分钟内)capture poses.
+Matt推荐的一个网站，用于pose的速写练习。http://www.posemaniacs.com/thirtysecond
+
+此方法核心，通过观察法画骨骼线条，然后再通过记忆中的肌肉形状在骨骼上画肌肉组织(musclelature)。
+所以我觉得，画人其实就是两个核心，一个是画出骨骼线(可以记忆，也可以观察)，此骨骼线含有guesture(pose),透视角度，比例信息
+                               一个是附加在骨骼上的肌肉组织musculature(要求记忆)。
+其实，骨骼线条，也可以通过记忆中的比例来画。
+注:我觉得，背骨骼比例，背肌肉结构，即可。
+
+//以下段落配图见b
+然后，作者详细讲述了骨骼线的绘制过程
+臀部角度线:先画lines determin the angle of hips(臀部)
+脚底位置线
+头部圆圈
+spine脊柱线(S Curve-S型曲线)
+leg腿线
+shoulder肩部角度线
+elbow肘部角度线
+手线
+...之后是肌肉轮廓线的绘制(略)
+
+[问]leg腿线，elbow肘部角度线，是外轮廓还是内轮廓，还是中间骨架
+[答]从作者画的几个例子看，有时是画在外轮廓上，有时画在了内轮廓上，有时是画在中间骨架上，所以并没有固定的位置。
+    可见，骨骼线，主要起的是比例结构的作用。
+
+后记:本文作者的流程中，先画骨骼线，再画肌肉轮廓线。
+     骨骼线的先后次序每个例子都不一样，肌肉轮廓线的先后次序亦然，但全局上是先画完了骨骼线，后才画肌肉轮廓线。
+     本节需要大量练习，并且最好背诵骨骼比例，背诵肌肉结构。
+     人体是个大坑，天坑，本节仅仅是一个印子，连入门都不算。
+     不过我觉得，还是(初期还是)借助3D软件来弄，不要学这些艰深专业的，毕竟你专业不是这个，仅作适度了解即可。
+                但是，你要成为大师，就得有硬本事，毕竟照着3D软件来弄门槛太低了，你还需要有过硬的内功才行。
+
+
+3)Why Warm Up With Gesture
+https://www.ctrlpaint.com/videos/why-bother-gesture-drawing
+本节是对"2)Quick Pose Gesture Sketching"的重要性的说明。
+gesture drawing的重要性不光体现在studying anatomy或者练手(warming up)，
+build your drawing confidence.重要性在于形成良好的手部握笔协调性的肌肉记忆，这样不光画人，画任何东西，手部肌肉都能很协调，就像用电动牙刷一样，现在刷牙已经很娴熟了。
+
+4)Simplifying the Head
+https://www.ctrlpaint.com/videos/simplifying-the-head
+本节讲述画人头的一种方法，planar analysis(平面分析)
+不同的artist(大师)有不同的画头方法(have their own formulas and methods of simplifying the head然后细化之)。
+Loomis,Hogarth,Bridgman三位大师，有各自的formula to memrize the head,and then call it up at will from any angle on the page.
+
+
+注:Matt说，此法与"二 - 2.4)"中的3D层面的基本结构(basic shape)结构块(rough shape)是不同的，3D的结构块，只适合画men-made object(人造物体)(如杯子)，但用来画人头这种organic shapes(organic form)(有机体)只会使问题更复杂。
+  
+planar analysis法:把smooth surface平滑的面，abstract into(抽象成)一个个individual plane(独立的面)，类似于3D建模中的面。
+                  把smooth surface make it into a few different flat edges.
+                  这样创建出来的一个个flat edges与原物体是similar(类似)的，但显dramatically simplified著地简化了。
+                  这样创建出的多面体，Matt称之为planar form.
+                  创建出planar form后，再blend between the faces,而后成为organic form，比如画苹果，画人头。
+eg1.对photo ref素材中的人脸使用此法进行研究，构建出自己对于planes of the head的理解。
+/*analyse the form of the face through planar analysis法。*/
+eg2.通过观察法画人脸时，先使用此法简化出面部构成，然后再细化绘制。
+eg3.通过创造法绘制人脸时，使用记忆中的planes of the head创造出面部大致形状，再细化绘制。
+    "Loomis,Hogarth,Bridgman三位大师，有各自的formula to memrize the head,and then call it up at will from any angle on the page."
+
+
+planar form:利用planar analysis法创建出的多面体，称为planar form.
+organic form(organic shape):有机体，如人体，如苹果。
+                            不适合用"二 - 2.4)"中的3D层面的基本结构(basic shape)结构块(rough shape)去画。
+                            适合用"六 - 4)Simplifying the Head"中的planar analysis法画出planar form入手去画。
+men-made object:人造物体。
+                适合用"二 - 2.4)"中的3D层面的基本结构(basic shape)结构块(rough shape)去画。
+
+对organic shape(如人头)使用planar analysis法进行简化有两点好处:good for observational drawing，比如画人像等。
+                                                            good for imaginary drawing.先创建planar form，再blend between the faces,而后成为organic form，比如画苹果。
+
+planar analysis法之于画人头:planes of the head.
+
+
+5)3 Major Masses-guesture sketching三要素:头,躯干,骨盆<---abstracting the body into simple shapes,或曰simplifying body.
+                                                     <---上接第2节
+https://www.ctrlpaint.com/videos/anatomy-3-major-masses
+本节在第二节快速capture pose的基础上(先画骨骼线再画肌肉线)，加入了对simplified head, torso, pelvis的刻画。
+本节主要讲guesture sketching之画身体，上接第2节，并与第4节画头相呼应。
+画身体也跟画头一样，有很多method，本节的方法强调pose姿势的twisting motion(扭转运动)，之前的小节Matt说spine(脊柱)的S-Curve很重要，本节的三要素也是对这个的一种延伸。
+head:头部
+torso:躯干
+pelvis:骨盆
+
+当人体直立时，spine躯干是呈S-Line状态的，但当涉及不同的pose时，躯干很可能会有一定程度的twisted扭曲.
+比如图b，其头部、躯干、骨盆并没有指向同一方向/*not all pointing to the same direction.*/
+        明白这一点很关键/*this is the key*/
+        几乎任何非直立的Pose,其spine都会有一定程度的twisted.
+
+画pose时简化人体的部位为simple shape，不同的artist有不同的method,Matt的方法基于Andrew Loomis的方法。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
